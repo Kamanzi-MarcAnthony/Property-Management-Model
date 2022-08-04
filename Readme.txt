@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Welcome to this website!
 
-Template Name: Impact
+Site Name: Impact
 Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-Author: BootstrapMade.com
+Author: Kamanzi Marc Anthony
 License: https://bootstrapmade.com/license/
